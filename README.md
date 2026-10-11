@@ -2,7 +2,7 @@
 - 👀 I can speak 4 languages -<b style="color: #FF5733;"> Chinese, English, Malay & Japanese</b> (Japanese at conversation level though)
 - 🌱 I can also speak programming languages! I know <b>Java, JavaScript, Python, C# & C++</b>
 - 💞️ Currently working on some side projects and making games with Unity
-- 📫 You can contact me <a href="https://www.linkedin.com/in/jiankhai-low-479344166/">on LinkedIN</a> or check out my <a href="https://inamilanzhu.wordpress.com/"> programming blog </a>!
+- 📫 You can contact me <a href="https://www.linkedin.com/in/jiankhai-low-479344166/">on LinkedIN</a> or check out my <a href="https://inamilanzhu.wordpress.com/"> programming blog </a> or <a href="https://lowjiankhai-2927695595.asia-southeast3.run.app/"> personal website </a>!
 
 
 <!---
